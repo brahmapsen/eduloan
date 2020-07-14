@@ -1,7 +1,7 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 
-import contextImage from "../assets/context.png";
+import contextImage from "../../assets/context.png";
 
 const useStyles = makeStyles(theme => ( {
     home: {

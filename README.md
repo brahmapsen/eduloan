@@ -6,7 +6,7 @@ loans which typically ranges above a compounded interest rate of 6-10%. This bec
 financial burden to students which discourages some not to pursue or drop out of college or pick
 up a job not to the best of their abilities.
 
-![context](/src/components/assets/context.png)
+![context](/src/assets/context.png)
 
 Eduloan is a platform that allows a student to avail financial help at a much lower rate than
 the traditional 6-10% rate.
