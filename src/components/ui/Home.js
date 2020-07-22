@@ -21,9 +21,8 @@ export default function Home(props){
     const classes = useStyles()
 
     return(
-        <header className={classes.home}>
-                <img alt="context" src={contextImage} className={classes.adornment}/>
-        </header>
-            
+        <div className={classes.home}>
+            <img alt="context" src={contextImage} className={classes.adornment}/>
+        </div>    
     )
 }

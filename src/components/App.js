@@ -4,6 +4,7 @@ import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import theme from "./ui/Theme";
 import Header from './ui/Header';
 import Home from './ui/Home';
+import Task from './Task';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           <BrowserRouter>
               <Header />
               <Switch>
+                  <Route exact path="/tasks" component={Task} />
                   <Route exact path="/" component={() => <div style={{height: "700px"}}> <Home/> </div> } />
               </Switch>
               

@@ -25,7 +25,7 @@ the traditional 6-10% rate.
 * The platform would buy 3rd party insurance to account for "defaults" in the loan
   repayment process so that lenders are protected.
 
-##Process Flow:
+## Process Flow:
 1. Identify Blockchain platform to host the product
 1. Digital identification framework for lenders and borrowers to sign in to the platform
 1. Establish Contract between Lender and Borrower (Duration, Amount, Terms, Repayment)
@@ -38,3 +38,6 @@ the traditional 6-10% rate.
 1. Integration with Educational Institution for payment
 1. Monitor Student Progress report
 1. Repayment set up with Student
+
+### *Story board:
+![tasks](/src/assets/tasks.jpg)
