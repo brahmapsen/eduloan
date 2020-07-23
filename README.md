@@ -40,4 +40,4 @@ the traditional 6-10% rate.
 1. Repayment set up with Student
 
 ### *Story board:
-![tasks](/src/assets/tasks.jpg)
+![tasks](/src/assets/task-board.png)
